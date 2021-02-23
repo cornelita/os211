@@ -1,0 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00 20 L03 GitHub related (Starting GitHub)
+ZCZC W00 100 L02 Zoom meetings (Tuesday, February 23, 2021)
