@@ -3,4 +3,6 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 20 L03 GitHub related (Starting GitHub)
-ZCZC W00 100 L02 Zoom meetings (Tuesday, February 23, 2021)
+ZCZC W00 90 L02 Zoom meetings (Tuesday, February 23, 2021)
+ZCZC W00 5 L04 Setting GitHub Pages
+ZCZC W00 75 L21 Install VirtualBox and creating a new Debian guest
