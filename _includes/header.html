@@ -1,0 +1,9 @@
+<header>
+    <div class="row">
+        {% if page.title %}
+            {{page.title | escape}}
+        {% else %}
+            {{site.title | escape}}
+        {% endif %}
+    </div>
+</header>
