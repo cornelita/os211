@@ -9,3 +9,15 @@ ZCZC W00 75 L21 Install VirtualBox and creating a new Debian guest
 ZCZC W00 140 L05 GSGS related to assignment (General)
 ZCZC W00 120 L10 Assignment (General)
 ZCZC W00 60 L06 Reading Books
+ZCZC W01 210 L11 Assignment #1
+ZCZC W01 60 L01 Pop Quiz W01
+ZCZC W01 100 L02 Zoom meetings (Tuesday, March 2, 2021)
+ZCZC W01 40 L12 Assignment #2
+ZCZC W01 40 L13 Assignment #3
+ZCZC W01 30 L14 Assignment #4
+ZCZC W01 150 L15 Assignment #5
+ZCZC W01 30 L09 AsDos: asking kawung setup
+ZCZC W01 25 L16 Assignment #6
+ZCZC W01 170 L17 Assignment #7
+ZCZC W01 30 L18 Assignment #8
+ZCZC W01 60 L06 Reading Books
