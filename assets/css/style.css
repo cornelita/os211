@@ -1,6 +1,7 @@
 :root {
   --biru-lambung-kapal: #272343;
-  --putih-awan: #FEFEFE;
+  --putih-awan: #f2f2f2;
+  --biru-link: #339;
 }
 
 html {
@@ -21,6 +22,7 @@ html {
 
 body {
   margin: 0;
+  background-color: var(--putih-awan);
 }
 
 header {
@@ -78,4 +80,13 @@ footer {
   padding: 1em;
   text-align: center;
   font-size: 1.15em;
+}
+
+/* Weekly Top 10 List */
+li>p>a {
+  text-decoration: none;
+}
+
+li>p>a:hover {
+  text-decoration: underline;
 }
