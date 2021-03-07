@@ -19,5 +19,5 @@ ZCZC W01 150 L15 Assignment #5
 ZCZC W01 30 L09 AsDos: asking kawung setup
 ZCZC W01 25 L16 Assignment #6
 ZCZC W01 170 L17 Assignment #7
-ZCZC W01 30 L18 Assignment #8
+ZCZC W01 50 L18 Assignment #8
 ZCZC W01 60 L06 Reading Books
