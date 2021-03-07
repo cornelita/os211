@@ -85,6 +85,7 @@ footer {
 /* Weekly Top 10 List */
 li>p>a {
   text-decoration: none;
+  color: var(--biru-link);
 }
 
 li>p>a:hover {
