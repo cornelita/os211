@@ -21,3 +21,6 @@ ZCZC W01 25 L16 Assignment #6
 ZCZC W01 170 L17 Assignment #7
 ZCZC W01 50 L18 Assignment #8
 ZCZC W01 60 L06 Reading Books
+ZCZC W02 30 L01 Pop Quiz W02
+ZCZC W02 105 L02 Zoom meetings (Tuesday, March 9, 2021)
+ZCZC W02 110 L10 Assignment (General) W02
