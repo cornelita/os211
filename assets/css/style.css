@@ -83,6 +83,10 @@ footer {
 }
 
 /* Weekly Top 10 List */
+ul {
+  font-size: 1.25em;
+}
+
 li>p>a {
   text-decoration: none;
   color: var(--biru-link);
