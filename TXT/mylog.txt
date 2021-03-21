@@ -27,3 +27,8 @@ ZCZC W02 80 L06 Reading Books
 ZCZC W02 100 L05 GSGS related to Assignment (General) W02
 ZCZC W02 140 L22 YouTube: related to Assignment (General) W02
 ZCZC W02 370 L10 Assignment (General) W02
+ZCZC W03 40 L23 Pop Quiz Discord
+ZCZC W03 30 L01 Pop Quiz SCELE
+ZCZC W03 710 L10 Assignment (General) W03
+ZCZC W03 90 L06 Reading Books
+ZCZC W03 100 L02 Zoom meetings (Thursday, March 18, 2021)
