@@ -36,3 +36,9 @@ ZCZC W04 100 L02 Zoom meetings (Thursday, March 25, 2021)
 ZCZC W04 30 L23 Pop Quiz Discord
 ZCZC W04 420 L10 Assignment (General) W04
 ZCZC W04 240 L21 Playing in Virtual Box (Install ubuntu, etc)
+ZCZC W05 60 L01 Pop Quiz SCELE
+ZCZC W05 110 L02 Zoom meetings (Thursday, April 1, 2021)
+ZCZC W05 30 L23 Pop Quiz Discord
+ZCZC W05 400 L10 Assignment (General) W05
+ZCZC W02 100 L05 GSGS related to Assignment (General) W05
+ZCZC W02 100 L22 Youtube: study
