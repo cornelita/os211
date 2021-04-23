@@ -42,3 +42,8 @@ ZCZC W05 30 L23 Pop Quiz Discord
 ZCZC W05 400 L10 Assignment (General) W05
 ZCZC W05 100 L05 GSGS related to Assignment (General) W05
 ZCZC W05 100 L22 Youtube: study
+ZCZC W06 30 L01 Pop Quiz SCELE
+ZCZC W06 110 L02 Zoom meetings (Thursday, April 8, 2021)
+ZCZC W06 420 L10 Assignment (General) W06
+ZCZC W06 100 L22 Youtube: study
+ZCZC W06 60 L06 Reading Books
