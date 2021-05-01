@@ -47,3 +47,10 @@ ZCZC W06 110 L02 Zoom meetings (Thursday, April 8, 2021)
 ZCZC W06 420 L10 Assignment (General) W06
 ZCZC W06 100 L22 Youtube: study
 ZCZC W06 60 L06 Reading Books
+ZCZC W07 30 L01 Quiz SCELE
+ZCZC W07 120 L02 Zoom meetings (Tuesday, April 27, 2021)
+ZCZC W07 60 L01 Pop Quiz SCELE
+ZCZC W07 420 L10 Assignment (General) W07
+ZCZC W07 60 L22 Youtube: study
+ZCZC W07 60 L06 Reading Books
+
