@@ -53,4 +53,8 @@ ZCZC W07 60 L01 Pop Quiz SCELE
 ZCZC W07 420 L10 Assignment (General) W07
 ZCZC W07 60 L22 Youtube: study
 ZCZC W07 60 L06 Reading Books
-
+ZCZC W08 30 L01 Quiz SCELE
+ZCZC W08 100 L02 Zoom meetings (Tuesday, May 4, 2021)
+ZCZC W08 60 L01 Pop Quiz SCELE
+ZCZC W08 600 L10 Assignment (General) W08
+ZCZC W08 70 L22 Youtube: related to Assignment (General) W08
