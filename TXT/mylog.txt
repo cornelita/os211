@@ -58,3 +58,8 @@ ZCZC W08 100 L02 Zoom meetings (Tuesday, May 4, 2021)
 ZCZC W08 60 L01 Pop Quiz SCELE
 ZCZC W08 600 L10 Assignment (General) W08
 ZCZC W08 70 L22 Youtube: related to Assignment (General) W08
+ZCZC W09 30 L01 Quiz SCELE
+ZCZC W09 120 L02 Zoom meetings (Tuesday, May 18, 2021)
+ZCZC W09 60 L23 Pop Quiz Discord
+ZCZC W09 600 L10 Assignment (General) W09
+ZCZC W09 120 L05 GSGS related to Assignment (General) W09
